@@ -78,6 +78,13 @@
         <org.mapstruct.version>1.1.0.Final</org.mapstruct.version>
     </properties>
 
+    <repositories>
+        <repository>
+            <id>aliyun</id>
+            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+        </repository>
+    </repositories>
+
 
     <dependencyManagement>
         <dependencies>
